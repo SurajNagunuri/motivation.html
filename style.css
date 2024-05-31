@@ -1,0 +1,33 @@
+body
+{
+    background-color: black;
+}
+.sololeveling
+{
+    margin-top: 100px;
+    align-items: center;
+    width: 50%;
+    margin-left: 25%;
+}
+#i1
+{
+    width: 100%;
+    height: auto;
+    border: 5px solid white;
+}
+#h1
+{
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    text-transform: uppercase;
+    text-align: center;
+}
+#p
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
